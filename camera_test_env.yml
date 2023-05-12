@@ -1,0 +1,6 @@
+name: 'camera_test'
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - opencv
